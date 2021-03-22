@@ -1,0 +1,40 @@
+Script started on Mon Mar  2 17:33:30 2020
+jxm1956@rabbit:~ % a.out
+Enter year 2000
+Enter month 1
+Enter day of month 1
+730120
+jxm1956@rabbit:~ % a.out
+Enter year 1900
+Enter month 1
+Enter day of month 1
+693596
+jxm1956@rabbit:~ % a.out
+Enter year 1776
+Enter month 7
+Enter day of month 4
+648491
+jxm1956@rabbit:~ % a.out
+Enter year 2016
+Enter month 10
+Enter day of month 4
+736241
+jxm1956@rabbit:~ % a.out
+Enter year 2016
+Enter month 10
+Enter day of month 10
+736247
+jxm1956@rabbit:~ % a.out
+Enter year 2737
+Enter month 11
+Enter day of month 27
+999634
+jxm1956@rabbit:~ % 20[K[Ka.out
+Enter year 10
+Enter month 1
+Enter day of month 1
+3288
+jxm1956@rabbit:~ % exit
+exit
+
+Script done on Mon Mar  2 17:35:00 2020
